@@ -23,4 +23,4 @@ Built using clean HTML, CSS, and vanilla JavaScript, offering a sleek and modern
 Clone the repository and open `index.html` directly in your browser:
 
 ```bash
-git clone https://github.com/ELAZBAWY/ELAZBAWY-HTML_And_CSS_And_Template-Four.git
+git clone https://elazbawy.github.io/-Responsive-Business-Solutions-Landing-Page-HTML-CSS-JavaScript-/
