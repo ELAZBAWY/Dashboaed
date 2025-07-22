@@ -17,7 +17,7 @@ Built using clean HTML, CSS, and vanilla JavaScript, offering a sleek and modern
 - JavaScript (vanilla)
 
 ## Live Demo
-[Click Here to View the Project](https://elazbawy.github.io/-Responsive-Business-Solutions-Landing-Page-HTML-CSS-JavaScript-/)
+[Click Here to View the Project](https://elazbawy.github.io/Dashboaed/)
 
 ## Installation
 Clone the repository and open `index.html` directly in your browser:
